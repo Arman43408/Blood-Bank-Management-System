@@ -1,0 +1,36 @@
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Downloads\BBMS\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
+F:\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+F:\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+F:\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+F:\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+F:\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+F:\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+F:\BBMS with DB\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Desktop\BBMS Final\BBMS Edit 3\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+C:\Users\ashek\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\bin\Debug\DatabaseBBMS.dll
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\bin\Debug\DatabaseBBMS.pdb
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.AssemblyReference.cache
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.csproj.CoreCompileInputs.cache
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.dll
+C:\Users\Arman Hossain\Desktop\FinalProject_BloodBankManagementSystem\DatabaseBBMS\obj\Debug\DatabaseBBMS.pdb
